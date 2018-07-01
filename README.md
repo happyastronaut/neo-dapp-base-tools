@@ -4,8 +4,8 @@
 --
 ## Instructions:
 
-1. `git clone https://github.com/happyastronaut/neo-js-.git`
-2. `cd neo-js`
+1. `git clone https://github.com/happyastronaut/neo-dapp-base-tools.git`
+2. `cd neo-dapp-base-tools`
 3. `npm i @cityofzion/neon-js`
 
 *Licensed under [MIT License](LICENSE)*
