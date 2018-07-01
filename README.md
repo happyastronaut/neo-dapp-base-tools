@@ -1,5 +1,5 @@
-# Neo dApp base tools powered by [neon-js](https://github.com/CityOfZion/neon-js)
-**Some ready for using tools for easy interactions with smart contracts on the Neo blockchain**
+#Basic set for developing Neo dApps, powered by [neon-js](https://github.com/CityOfZion/neon-js)
+**Some basic set of functions ready to use for development of NEO dApps**
 --
 ## Instructions:
 
