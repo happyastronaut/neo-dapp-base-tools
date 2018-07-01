@@ -1,0 +1,25 @@
+{
+  "name": "neo-dapp-base-tools",
+  "version": "1.0.1",
+  "description": "Some ready for using base tools for easy interactions with smart contracts on the Neo blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happyastronaut/neo-dapp-base-tools.git"
+  },
+  "keywords": [
+    "neo"
+  ],
+  "author": "Vladysla Hubar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/happyastronaut/neo-dapp-base-tools/issues"
+  },
+  "homepage": "https://github.com/happyastronaut/neo-dapp-base-tools#readme",
+  "dependencies": {
+    "@cityofzion/neon-js": "^3.9.1"
+  }
+}
